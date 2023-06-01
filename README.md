@@ -11,5 +11,6 @@ Please add paper or some other material you've read in the table below.
 
 ## How to make Pull Request?
 - [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
+- [版本控制(git)](https://missing-semester-cn.github.io/2020/version-control/)
 - [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 
